@@ -15,10 +15,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SAP ABAP](https://img.shields.io/badge/-SAP%20ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-## 📊 GitHub İstatistiklerim  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github-kullanici-adiniz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-kullanici-adiniz&layout=compact&theme=radical)  
-
 ## 📫 Beni Takip Edin  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-ata-akan-04154a148/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eaa1648)  
