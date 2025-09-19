@@ -4,8 +4,8 @@
 💻 Computer Engineer | 🚀 Open Source Enthusiast
 
 ## 📌 About Me
-- 🔭 Currently specializing in ERP, SAP and Cybersecurity solutions
-- 🌱 Expanding my expertise in Back-End development
+- 🔭 Currently learning everything
+
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/efe-ata-akan-04154a148/)
 
 ## 🚀 Technical Proficiencies
