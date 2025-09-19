@@ -9,9 +9,7 @@
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/efe-ata-akan-04154a148/)
 
 ## 🚀 Technical Proficiencies
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET MVC](https://img.shields.io/badge/-.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/-Web%20API-0088CC?style=flat-square&logo=web&logoColor=white)
+![API](https://img.shields.io/badge/-Web%20API-0088CC?style=flat-square&logo=web&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SAP ABAP](https://img.shields.io/badge/-SAP%20ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
